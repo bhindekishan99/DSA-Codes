@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "d:\\STUDY\\Compititive Programming\\450 dsa q\\1 Array\\4Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo",
+      "environment": [],
+      "program": "d:\\STUDY\\Compititive Programming\\450 dsa q\\1 Array\\4Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\Program Files\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\gdb.exe",
+      "externalConsole": false
+    }
+  ]
+}
